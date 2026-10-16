@@ -1,0 +1,11 @@
+# eScalator — base dependencies
+# Installed automatically by start.sh / start.bat on first run.
+# macOS: start.sh also installs pyobjc-core + pyobjc-framework-WebKit automatically.
+fastapi>=0.100
+uvicorn[standard]>=0.20
+python-multipart>=0.0.5
+Pillow>=9.0
+numpy>=1.23
+pywebview>=4.0
+packaging>=21.0
+scipy>=1.9
