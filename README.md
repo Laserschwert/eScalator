@@ -1,6 +1,7 @@
 # eScalator v1.3
 
 A fast, AI-powered image upscaling and processing tool with a native desktop UI. No compilation required — double-click to run.
+
 **Note: This tool has been coded with Claude.ai**
 
 ## Quick Start
